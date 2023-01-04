@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Prb.Hotel.Wpf"
         mc:Ignorable="d"
-        Title="Hotel Deklerck" Height="400" Width="633" Loaded="Window_Loaded">
+        Title="Hotel Deklerck" Height="400" Width="633" Loaded="Window_Loaded" Background="#FF90B6C0">
     <Grid>
         <Label Content="Aantal personen :" HorizontalAlignment="Left" Margin="2,72,0,0" VerticalAlignment="Top" FontSize="16"/>
         <Label Content="Voornaam :" HorizontalAlignment="Left" Margin="35,21,0,0" VerticalAlignment="Top" FontSize="16"/>

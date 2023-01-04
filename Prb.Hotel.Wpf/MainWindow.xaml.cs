@@ -306,7 +306,7 @@ namespace Prb.Hotel.Wpf
             }
 
             totaal = numberOfNights * totalRoom;
-            tbkTotal.Text = totaal.ToString();
+            tbkTotal.Text = $"€ {totaal.ToString()}";
         }
 
         private void BtnNew_Click(object sender, RoutedEventArgs e)
